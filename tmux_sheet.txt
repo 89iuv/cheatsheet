@@ -1,0 +1,10 @@
+# Tmux CheatSheet
+
+cb - arrows # travel between panes
+
+cb - % # split vertical
+cb - " # split horizontal
+
+cb - hold alt, arrows # resize pane
+
+cb - d # exit
