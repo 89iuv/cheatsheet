@@ -1,0 +1,9 @@
+# Cheat Sheet for Git
+
+# config
+git config --global user.email "you@example.com
+git config --global user.name "Your Name
+
+# remote url
+git remote -v # view remote url
+git remote set-url origin https://github.com/USERNAME/REPOSITORY.git # change remote url
