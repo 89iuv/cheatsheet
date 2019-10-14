@@ -1,5 +1,8 @@
 # Cheat Sheet for Git
 
+# generate ssh key
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
 # config
 git config --global user.email "you@example.com
 git config --global user.name "Your Name
