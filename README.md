@@ -1,2 +1,2 @@
 # cheatsheet
-Cheat sheets for various linux comands
+Cheat sheets for linux comands.
