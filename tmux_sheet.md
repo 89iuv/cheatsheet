@@ -1,6 +1,6 @@
 # Tmux CheatSheet
 
-# Windows
+## Windows
 ctrl+b - c
 	new window
 
@@ -19,7 +19,7 @@ ctrl+b - n
 ctrl+b - &
 	close window	
 
-# Panes
+## Panes
 ctrl+b - arrows
 	travel between panes
 
@@ -35,7 +35,7 @@ ctrl+b - hold(alt) + arrows
 ctrl+b - z
 	zoom into pane
 
-# Sessions
+## Sessions
 ctrl+b - d
 	disconnect tmux 
 
@@ -45,7 +45,7 @@ ctrl+b - $
 ctrl+b - s
 	sessions overview
 
-# Application
+## Application
 tmux attach
 	attach to tmux
 
